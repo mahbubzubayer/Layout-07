@@ -1,0 +1,32 @@
+*{
+                    margin: 0%;
+                }
+                header{
+                    width: 100%;
+                    height: 150px;
+                    background-color: rgb(83, 113, 168);
+                    color: bisque;
+                    text-align: center;
+                }
+                .navi{
+                    width: 100%;
+                    height: 100px;
+                    background-color: rgb(35, 82, 171);
+                    color: bisque;
+                    text-align: center;
+                }
+                .main_contact{
+                    width: 100%;
+                    height: 450px;
+                    background-color: cornflowerblue;
+                    color: bisque;
+                    text-align: center;
+                
+                }
+                footer{
+                    width: 100%;
+                    height: 100px ;
+                    background-color: rgb(57, 76, 112);
+                    color: bisque;
+                    text-align: center;
+                }
